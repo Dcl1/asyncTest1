@@ -1,0 +1,3 @@
+rootProject.name = 'asyncTest1'
+
+include ':app'
